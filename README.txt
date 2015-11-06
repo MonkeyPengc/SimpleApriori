@@ -22,4 +22,5 @@ It grabs all the dataset files in the dataset_folder and generates a new/uses an
 3. Dataset to use
 
 Currently, you can test the code using the .txt dataset files attached.
+Note: The first row in dataset would be skipped.
 
